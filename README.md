@@ -1,4 +1,4 @@
-## Olá, sou o Leonardo Gomes da Silva e estou tentando iniciar na carreira de desenvolvimento
+<img align="center" alt="Leonardo168-Olá" src="https://cdn.shopify.com/s/files/1/1029/3689/files/AnimatedWave.gif?17622396788925529758">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardo168/Leonardo168/output/github-contribution-grid-snake-dark.svg">
