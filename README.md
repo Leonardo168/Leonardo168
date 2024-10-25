@@ -1,4 +1,4 @@
-## Olá, sou o Leonardo Gomes da Silva e estou tentando iniciar na carreira de desenvolvimento de software
+## Olá, sou o Leonardo Gomes da Silva e estou tentando iniciar na carreira de desenvolvimento
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardo168/Leonardo168/output/github-contribution-grid-snake-dark.svg">
