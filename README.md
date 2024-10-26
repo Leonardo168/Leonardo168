@@ -1,4 +1,4 @@
-## Hello World! Sou o Leonardo, estudante de Análise e Desenvolvimento de Software
+## Hello World! Sou o Leonardo, estudante de Análise e Desenvolvimento de Sistemas
 <p align="center">
   <img alt="Leonardo168-Hello" height="300" src="https://cdn.shopify.com/s/files/1/1029/3689/files/AnimatedWave.gif?17622396788925529758">
 </p>
