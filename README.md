@@ -1,4 +1,4 @@
-## Hello World! Sou o Leonardo
+## Hello World! 👋 Sou o Leonardo
 Atualmente, um estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio.
 
 <div align="center">
